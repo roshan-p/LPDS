@@ -57,4 +57,67 @@
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="5.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="6.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="7.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="15.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="8.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="9.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="10.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="11.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="12.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="13.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="14.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="16.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="classifications.xml">
+      <Filter>Resource Files</Filter>
+    </Xml>
+    <Xml Include="images.xml">
+      <Filter>Resource Files</Filter>
+    </Xml>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="LPDS report.csv">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>
