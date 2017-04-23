@@ -21,9 +21,10 @@ LPDS.vcxproj.filters
     similar extensions under a specific node (for e.g. ".cpp" files are associated with the
     "Source Files" filter).
 
-LPDS.cpp
-    This is the main application source file.
+Main.cpp
+    This is the main application source file and contain object tracking and wrong late dection system.
 
+    
 /////////////////////////////////////////////////////////////////////////////
 Other standard files:
 
